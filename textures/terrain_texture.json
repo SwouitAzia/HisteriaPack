@@ -1,0 +1,89 @@
+{
+   "num_mip_levels" : 4,
+   "padding" : 8,
+   "resource_pack_name" : "vanilla",
+   "texture_data" : {
+      "cave_block" : {
+         "textures" : "textures/blocks/cave_block"
+      },
+      "drawer_front" : {
+         "textures" : "textures/blocks/drawer_front"
+      },
+      "drawer_top_bottom_side" : {
+         "textures" : "textures/blocks/drawer_top_bottom_side"
+      },
+      "elevator_side" : {
+         "textures" : "textures/blocks/elevator_side"
+      },
+      "elevator_top_bottom" : {
+         "textures" : "textures/blocks/elevator_top_bottom"
+      },
+      "fertilized_dirt" : {
+         "textures" : "textures/blocks/fertilized_dirt"
+      },
+      "histerite_block" : {
+         "textures" : "textures/blocks/histerite_block"
+      },
+      "histerite_ore" : {
+         "textures" : "textures/blocks/histerite_ore"
+      },
+      "lucky_block" : {
+         "textures" : "textures/blocks/lucky_block"
+      },
+      "neon_block" : {
+         "textures" : "textures/blocks/neon_block"
+      },
+      "nocturite_block" : {
+         "textures" : "textures/blocks/nocturite_block"
+      },
+      "nocturite_plant_stage_0" : {
+         "textures" : "textures/blocks/nocturite_plant_stage_0"
+      },
+      "nocturite_plant_stage_1" : {
+         "textures" : "textures/blocks/nocturite_plant_stage_1"
+      },
+      "nocturite_plant_stage_2" : {
+         "textures" : "textures/blocks/nocturite_plant_stage_2"
+      },
+      "nocturite_plant_stage_3" : {
+         "textures" : "textures/blocks/nocturite_plant_stage_3"
+      },
+      "poisonous_obsidian" : {
+         "textures" : "textures/blocks/poisonous_obsidian"
+      },
+      "reinforced_obsidian" : {
+         "textures" : "textures/blocks/reinforced_obsidian"
+      },
+      "cobble_breaker_top": {
+         "textures" : "textures/blocks/cobble_breaker_top"
+      },
+      "cobble_breaker_bottom": {
+         "textures" : "textures/blocks/cobble_breaker_bottom"
+      },
+      "cobble_breaker_side": {
+         "textures" : "textures/blocks/cobble_breaker_side"
+      },
+      "box" : {
+         "textures" : "textures/blocks/box"
+      },
+      "random_ore" : {
+         "textures" : "textures/blocks/random_ore"
+      },
+      "histerite_anvil" : {
+         "textures" : "textures/blocks/histerite_anvil"
+      },
+      "spike" : {
+         "textures" : "textures/blocks/spike"
+      },
+      "bounce" : {
+         "textures" : "textures/blocks/bounce"
+      },
+      "histerite_chest" : {
+         "textures" : "textures/blocks/histerite_chest"
+      },
+      "nocturite_chest" : {
+         "textures" : "textures/blocks/nocturite_chest"
+      }
+   },
+   "texture_name" : "atlas.terrain"
+}
