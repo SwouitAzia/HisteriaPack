@@ -44,9 +44,9 @@
         "textures": "nocturite_plant"
     },
     "histeria:event_magma": {
-      "sound": "stone",
-        "textures":"magma"
-},
+        "sound": "stone",
+        "textures": "magma"
+    },
     "histeria:drawer": {
         "sound": "wood",
         "textures": {
