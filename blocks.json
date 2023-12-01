@@ -43,6 +43,10 @@
         "sound": "nether_wart",
         "textures": "nocturite_plant"
     },
+    "histeria:event_magma": {
+      "sound": "stone",
+        "textures":"magma"
+},
     "histeria:drawer": {
         "sound": "wood",
         "textures": {
