@@ -1,14 +1,14 @@
 {
     "histeria:box": {
-        "sound": "glass",
+        "sound": "wood",
         "textures" : "box"
     },
     "histeria:cave_block": {
-        "sound": "stone",
+        "sound": "glass",
         "textures": "cave_block"
     },
     "histeria:fertilized_dirt": {
-        "sound": "gravel",
+        "sound": "dirt",
         "textures": "fertilized_dirt"
     },
     "histeria:histerite_block": {
@@ -20,7 +20,7 @@
         "textures": "histerite_ore"
     },
     "histeria:lucky_block": {
-        "sound": "stone",
+        "sound": "metal",
         "textures": "lucky_block"
     },
     "histeria:nocturite_block": {
@@ -67,11 +67,11 @@
         }
     },
     "histeria:neon_block": {
-        "sound": "stone",
+        "sound": "glass",
         "textures": "neon_block"
     },
     "histeria:bounce": {
-        "sound": "stone",
+        "sound": "slime",
         "textures": "bounce"
     },
     "histeria:spike": {
@@ -94,11 +94,11 @@
         }
     },
     "histeria:histerite_chest" : {
-        "sound" : "stone",
+        "sound" : "metal",
         "textures" : "histerite_chest"
     },
     "histeria:nocturite_chest" : {
-        "sound" : "stone",
+        "sound" : "metal",
         "textures" : "nocturite_chest"
     }
 }
