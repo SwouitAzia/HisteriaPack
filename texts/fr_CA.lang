@@ -23,7 +23,7 @@ tile.histeria:spike.name=Épine
 tile.histeria:bounce.name=Rebond
 
 tile.histeria:event_magma.name=Neige en fusion
-tile.histeria:chocolate_egg.name=Oeuf en chocolat
+tile.histeria:egg_basket.name=Panier d'oeufs
 
 [Armors]
 item.histeria:nocturite_helmet=Casque en Nocturite
