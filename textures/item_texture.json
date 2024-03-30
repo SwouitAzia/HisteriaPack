@@ -281,8 +281,11 @@
     "candy_cane": {
       "textures": "textures/items/event/candy_cane"
     },
-    "bomb": {
-      "textures": "textures/items/event/bomb"
+    "normal_bomb": {
+      "textures": "textures/items/event/normal_bomb"
+    },
+    "christmas_bomb": {
+      "textures": "textures/items/event/christmas_bomb"
     },
     "christmas_ball": {
       "textures": "textures/items/event/christmas_ball"
@@ -328,6 +331,9 @@
     },
     "chocolate_staff": {
       "textures": "textures/items/event/chocolate_staff"
+    },
+    "egg_basket": {
+      "textures": "textures/items/event/egg_basket"
     }
   }
 }

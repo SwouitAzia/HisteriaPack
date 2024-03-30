@@ -102,7 +102,7 @@
         "textures" : "nocturite_chest"
     },
     "histeria:chocolate_egg" : {
-        "sound" : "wood",
+        "sound" : "slime",
         "textures" : "chocolate_egg"
     }
 }

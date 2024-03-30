@@ -11,7 +11,7 @@
 				}
 			}
 		},
-		"animation.lotus_staff.third_person_hold": {
+		"animation.chocolate_staff.third_person_hold": {
 			"loop": true,
 			"animation_length": 1,
 			"bones": {
