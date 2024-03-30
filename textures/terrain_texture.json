@@ -84,8 +84,8 @@
       "nocturite_chest" : {
          "textures" : "textures/blocks/nocturite_chest"
       },
-      "chocolate_egg" : {
-         "textures" : "textures/blocks/chocolate_egg"
+      "egg_basket" : {
+         "textures" : "textures/blocks/egg_basket"
       }
    },
    "texture_name" : "atlas.terrain"

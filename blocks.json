@@ -101,8 +101,8 @@
         "sound" : "metal",
         "textures" : "nocturite_chest"
     },
-    "histeria:chocolate_egg" : {
-        "sound" : "slime",
-        "textures" : "chocolate_egg"
+    "histeria:egg_basket" : {
+        "sound" : "wood",
+        "textures" : "egg_basket"
     }
 }
