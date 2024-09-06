@@ -152,9 +152,9 @@ tile.histeria:silver_medal.name=Médaille d'argent
 tile.histeria:bronze_medal.name=Médaille de bronze
 
 [Items - Evènements]
-item.histeria:gold_trophy.name=Trophée en or
-item.histeria:silver_medal.name=Médaille d'argent
-item.histeria:bronze_medal.name=Médaille de bronze
+item.histeria:gold_trophy=Trophée en or
+item.histeria:silver_medal=Médaille d'argent
+item.histeria:bronze_medal=Médaille de bronze
 
 [Others]
 dayOneExperience.tab.marketplace=shop.histeria.fr
