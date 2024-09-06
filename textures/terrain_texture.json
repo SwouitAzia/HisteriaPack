@@ -86,6 +86,16 @@
       },
       "egg_basket" : {
          "textures" : "textures/blocks/egg_basket"
+      },
+
+      "gold_trophy_block" : {
+         "textures" : "textures/blocks/event/rewards/gold_trophy_block"
+      },
+      "silver_medal_block" : {
+         "textures" : "textures/blocks/event/rewards/silver_medal_block"
+      },
+      "bronze_medal_block" : {
+         "textures" : "textures/blocks/event/rewards/bronze_medal_block"
       }
    },
    "texture_name" : "atlas.terrain"

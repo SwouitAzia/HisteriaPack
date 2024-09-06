@@ -334,6 +334,16 @@
     },
     "egg_basket": {
       "textures": "textures/items/event/egg_basket"
+    },
+    
+    "gold_trophy": {
+      "textures": "textures/items/event/rewards/gold_trophy"
+    },
+    "silver_medal": {
+      "textures": "textures/items/event/rewards/silver_medal"
+    },
+    "bronze_medal": {
+      "textures": "textures/items/event/rewards/bronze_medal"
     }
   }
 }

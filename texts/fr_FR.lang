@@ -146,6 +146,16 @@ item.histeria:punching_ball=Boule de frappe
 item.histeria:shuriken=Shuriken
 item.histeria:thunderbolt=Coup de tonnerre
 
+[Blocks - Evènements]
+tile.histeria:gold_trophy.name=Trophée en or
+tile.histeria:silver_medal.name=Médaille d'argent
+tile.histeria:bronze_medal.name=Médaille de bronze
+
+[Items - Evènements]
+item.histeria:gold_trophy.name=Trophée en or
+item.histeria:silver_medal.name=Médaille d'argent
+item.histeria:bronze_medal.name=Médaille de bronze
+
 [Others]
 dayOneExperience.tab.marketplace=shop.histeria.fr
 trial.tour.marketplace=shop.histeria.fr
