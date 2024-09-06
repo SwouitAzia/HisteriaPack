@@ -110,11 +110,11 @@
         "sound" : "metal",
         "textures" : "gold_trophy_block"
     },
-    "histeria:silver_medal" : {
+    "histeria:silver_medal_block" : {
         "sound" : "metal",
         "textures" : "silver_medal_block"
     },
-    "histeria:bronze_medal" : {
+    "histeria:bronze_medal_block" : {
         "sound" : "metal",
         "textures" : "bronze_medal_block"
     }
