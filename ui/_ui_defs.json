@@ -1,0 +1,10 @@
+{   
+    "ui_defs": [
+        // Forms UI
+        "ui/custom/forms/events_choices.json"
+
+        // Chests UI
+
+        // Others
+    ]
+}

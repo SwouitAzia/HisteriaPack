@@ -1,0 +1,54 @@
+{
+    /* 
+    * Author : swit_azya
+    * Make sure to credit me in case to take some code
+    */
+    "namespace": "server_form",
+    
+    "long_form": {
+        "type": "panel",
+        "size": [
+            "100%",
+            "100%"
+        ],
+
+        // Forms title (must be here)
+        "$events_choose_event": "form.events_choose_event.title",
+        "$events_choose_map": "form.events_choose_map.title",
+        "$events_manage": "form.events_manage.title",
+
+        "controls": [
+            {
+                // Basic form
+                "long_form@common_dialogs.main_panel_no_buttons": {
+                    "$title_panel": "common_dialogs.standard_title_label",
+                    "$title_size": [
+                        "100% - 14px",
+                        10
+                    ],
+                    "size": [
+                        255,
+                        200
+                    ],
+                    "$text_name": "#title_text",
+                    "$title_text_binding_type": "none",
+                    "$child_control": "server_form.long_form_panel",
+                    "bindings": [
+                        {
+                            "binding_name": "#title_text"
+                        },
+                        {
+                            "binding_type": "view",
+                            "source_property_name": "(((#title_text - $events_choose_map) = #title_text) and ((#title_text - $events_choose_event) = #title_text)) and ((#title_text - $events_manage) = #title_text)))",
+                            "target_property_name": "#visible"
+                        }
+                    ]
+                }
+            },
+            {
+                // Events : choose event, choose map and manage events
+                "long_form@events_choices.long_form": {}
+            }
+        ]
+    }
+}

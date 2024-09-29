@@ -71,8 +71,9 @@ item.histeria:vip_icon=VIP
 
 [Events]
 item.histeria:christmas_ball=Boule de Noël
-item.histeria:christmas_rocket=Fusée de Noël
+item.histeria:rocket=Fusée
 item.histeria:christmas_bomb=Bombe de Noël
+item.histeria:bomb=Bombe
 item.histeria:snow_shovel=Pelle à neige
 item.histeria:christmas_star=Etoile de Noël
 item.histeria:candy_cane=Sucre d'orge
@@ -80,9 +81,11 @@ item.histeria:red_candy=Sucre d'orge
 item.histeria:blue_candy=Bonbon bleu
 item.histeria:yellow_candy=Bonbon jaune
 item.histeria:snow_globe=Boule à neige
+item.histeria:soda_bottle=Bouteille de soda
+item.histeria:burning_scroll=Parchemin enflammé
+item.histeria:frozen_scroll=Parchemin givré
 
 item.histeria:leap=Plume
-item.histeria:normal_bomb=Bombe
 
 item.histeria:golden_egg=Oeuf d'or
 item.histeria:egg_basket=Panier d'oeufs
@@ -164,3 +167,8 @@ disconnectionScreen.cantConnect=Impossible de se connecter à Histeria. Si vous 
 
 [Menu Pause]
 histeria.store=Rendez-vous sur §l§3shop.histeria.fr §ret §l§9discord.gg/histeria §r§l!
+
+[Custom UI]
+form.events_choose_map.title=§8[§fEvènementiel§8] §rChoisir la carte
+form.events_choose_event.title=§8[§fEvènementiel§8] §rChoisir l'évènement
+form.events_manage.title=§8[§fEvènementiel§8] §rGérer l'évènement
